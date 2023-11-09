@@ -1,1 +1,1 @@
-Merhaba, bu benim ilk react projem.
+Hi, this is my first react project.
