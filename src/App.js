@@ -16,8 +16,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="*" element={<NotFound />} />
-        <Route path="/Home" element={<ProtectedRoute requiredRole="admin"><Home /></ProtectedRoute>} />
-        <Route path="/UserPage" element={<ProtectedRoute requiredRole="user"><UserPage /></ProtectedRoute>} />
+        <Route path="/Home" element={<Home />} />
+        <Route path="/UserPage" element={<UserPage />} />
       </Routes>
     </BrowserRouter>
   );
