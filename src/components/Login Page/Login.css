@@ -1,0 +1,37 @@
+body {
+  background-color: #232830 ;
+}
+.login-cc{
+  background-color: #161C24;
+  box-shadow: 1px 1px 8px 8px white;
+}
+
+.list-u {
+  box-shadow: 1px 1px 10px 1px white;
+}
+
+.c-btn {
+  box-shadow: 1px 1px 5px 1px white;
+}
+
+.tbl {
+  box-shadow: 1px 1px 10px 1px white;
+  
+}
+
+.login-c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form {
+  text-align: center;
+  border: 1px solid #a71414;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
