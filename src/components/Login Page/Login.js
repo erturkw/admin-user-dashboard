@@ -73,7 +73,7 @@ function Login() {
 
           <div className="card login-cc text-white">
             <div className="card-body m-3">
-              <h1 className="card-title mb-3">Login USER</h1>
+              <h1 className="card-title mb-3">Login User</h1>
               <div className="form-group">
                 <label className='mb-2 fs-4'>Username:</label>
                 <input
